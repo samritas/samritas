@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samritas&label=Profile%20views&color=0e75b6&style=flat" alt="samritas" /> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently working as a **Full_stack developer**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react,next js,node js,express**
 
-- 📫 How to reach me **samrawittesfahun@gmail.com**
+- 📫 How to reach me **samrawittesfahun19@gmail.com**
 
 - ⚡ Fun fact **I once solved a coding bug by talking to my rubber duck. Rubber duck debugging really works – explaining the problem out loud often leads to those 'aha' moments! 🦆💻 #RubberDuckDebugger**
 
